@@ -1,16 +1,28 @@
 {
   "tasks": [
     {
-      "id": 2,
+      "id": 6,
+      "taskName": "Learn Angular =)"
+    },
+    {
+      "id": 7,
       "taskName": "Learn Angular"
     },
     {
-      "id": 3,
-      "taskName": "Youtube Channel"
+      "id": 8,
+      "taskName": "Learn Angular"
     },
     {
-      "id": 4,
-      "taskName": "Marguerita"
+      "id": 9,
+      "taskName": "Learn Angular"
+    },
+    {
+      "id": 10,
+      "taskName": "Learn React"
+    },
+    {
+      "id": 11,
+      "taskName": "Learn React"
     }
   ]
 }
