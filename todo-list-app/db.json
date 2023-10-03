@@ -1,28 +1,40 @@
 {
   "tasks": [
     {
+      "id": 1,
+      "taskName": "Learn Angular"
+    },
+    {
+      "id": 2,
+      "taskName": "Learn React"
+    },
+    {
+      "id": 3,
+      "taskName": "Learn Java"
+    },
+    {
+      "id": 4,
+      "taskName": "Learn Spring Boot"
+    },
+    {
+      "id": 5,
+      "taskName": "Build more Angular Applications"
+    },
+    {
       "id": 6,
-      "taskName": "Learn Angular =)"
+      "taskName": "Print internal transfer documents"
     },
     {
       "id": 7,
-      "taskName": "Learn Angular"
+      "taskName": "More and more"
     },
     {
       "id": 8,
-      "taskName": "Learn Angular"
+      "taskName": "More and more"
     },
     {
       "id": 9,
-      "taskName": "Learn Angular"
-    },
-    {
-      "id": 10,
-      "taskName": "Learn React"
-    },
-    {
-      "id": 11,
-      "taskName": "Learn React"
+      "taskName": "More and more"
     }
   ]
 }

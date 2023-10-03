@@ -16,8 +16,8 @@
 
         <h4 class="text-light mt-4">Tasks</h4>
 
-        <div style="overflow-y: auto; height: 350px;"> <!-- TASK -->
-          <div class="m-3" *ngFor="let task of taskArray">
+        <div class="scrollbar-style" style="overflow-y: auto; height: 420px;"> <!-- TASK -->
+          <div class="m-3" *ngFor="let task of taskArray" >
             <div class="shadow">
               <div class="input-group row ps-3">
                 <div class="card col-md-9 justify-content-center">{{ task.taskName }}</div>
